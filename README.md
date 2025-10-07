@@ -1,6 +1,6 @@
 # Data-Ops
-Le projet :
-L'objectif est de simuler l'organisation Scrum autour d'un projet DataOps.
+L'objectif du projet :
+Identifier des patterns et insights sur la réussite scolaire.
 
 L'organisation de votre équipe et les rôles attribués à chacun:
 
@@ -9,5 +9,7 @@ L'organisation de votre équipe et les rôles attribués à chacun:
 - Benjamin VARENNE : Scrum Master
 - Prince ESSANI : Data Scientis
 - Nathan TISSERON : CEO
+
+
 
 
