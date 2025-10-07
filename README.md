@@ -1,7 +1,13 @@
 # Data-Ops
-Votre projet (contexte et objectifs),
+Le projet :
 
-L'organisation de votre équipe (Scrum),
 
-Les rôles attribués à chacun.
+L'organisation de votre équipe et les rôles attribués à chacun:
+
+- Shayaan SHAKHUN : CO CEO
+- Aboubacrine NAJIM : Data Scientis
+- Benjamin VARENNE : Scrum Master
+- Prince ESSANI : Data Scientis
+- Nathan TISSERON : CEO
+
 
