@@ -7,7 +7,7 @@ L'organisation de votre équipe et les rôles attribués à chacun:
 - Shayaan SHAKHUN : CO CEO
 - Aboubacrine NAJIM : Data Scientist
 - Benjamin VARENNE : Scrum Master
-- Prince ESSANI : Data Scientis
+- Prince ESSANI : Data Scientist
 - Nathan TISSERON : CEO
 
 
