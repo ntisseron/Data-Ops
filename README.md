@@ -7,7 +7,7 @@ L'organisation de votre équipe et les rôles attribués à chacun:
 - Shayaan SHAKHUN : Data Engineering 
 - Aboubacrine NAJIM : Data Scientist
 - Benjamin VARENNE : Scrum Master
-- Prince ESSANI : Data Scientist
+- Prince ESSANI : Data Analyst
 - Nathan TISSERON : Product Owner
 
 
